@@ -1,0 +1,6 @@
+{
+  "name": "Mô phỏng Robot JetBot CMU 3D & Phân tích Linh kiện",
+  "description": "Trang web tương tác 3D mô phỏng robot JetBot với NVIDIA Jetson Nano, RPLIDAR, Camera CSI, bánh xe, động cơ DC và bảng phân tích linh kiện chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
